@@ -4,5 +4,6 @@ test the diff cmd
 test the diff cmd
 git is a tool
 
-create a new branch and new
+create a new branch and new feature
+
 
