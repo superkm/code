@@ -8,5 +8,6 @@ create a new branch and new feature
 conflict exercise
 
 checkout master
+add merge
 
 
