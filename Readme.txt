@@ -6,4 +6,6 @@ git is a tool
 
 create a new branch and new feature
 
+checkout master
+
 
